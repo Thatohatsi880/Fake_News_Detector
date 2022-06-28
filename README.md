@@ -1,2 +1,1 @@
-# Fake_News_Detector
-Detector of Fake News using Python and Machine Learning
+Detecting Fake News on social media using Python and Machine Learning
